@@ -76,7 +76,7 @@ class RocketNozzleSolver:
 		"eps": [],
 		"mach": [],
 		"pe_bar": [],
-		"ve_m_s: [],
+		"ve_m_s": [],
 		"thrust_kn": [],
 		"isp_s": [],
 		"tc_k": tc_k,
