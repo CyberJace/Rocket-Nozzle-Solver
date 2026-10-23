@@ -1,2 +1,9 @@
-# Rocket-Nozzle-Solver
-Rocket nozzle output thrust parameters utilizing python.
+# Rocket Nozzle CEA Solver
+
+A python project that imports NASA CEA library to compare nozzle performances based on compressible flow, heat conditions, and pressure. 
+
+## Features & Characteristics
+* Chemical Equilibrium: By referencing given parameters such as mixture ratio and pressure that is inputted in the CEA to output specific heat ratio (equaling to constant pressure / constant volume), adiabatic temperature, molecular weight, etc.
+* One-dimensional Compressible Flow Computation: Determines each area of a variety of nozzles' endpoints, calculates parameters that result from outside nozzle, and pressure thrust that expands based on expansion ratio.
+* Automated Trade
+* Trade Study: Calculates specific impulse and net thrust to visually represent a comparison of several nozzle expansion ratios on a graph. 
