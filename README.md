@@ -15,3 +15,10 @@ A python project that imports NASA CEA library to compare nozzle performances ba
 * Edited and directed by
 
 ## Tests
+* Successful run
+* Results Example:
+  * --- Running Analysis: LOX / CH4 ---
+  * [SUCCESS] Performance trade plot saved: outputs\lox_ch4_sea_level.png
+  * Chamber temperature (Tc): 6080.40 K
+  * Mean Molecular Weight (MW): 1.15 g/mol
+  * Throat Area (A*): 3746.06 cm^2
