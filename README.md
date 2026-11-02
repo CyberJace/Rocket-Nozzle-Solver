@@ -49,8 +49,8 @@ Linux (Command Prompt):
 pip install -r requirements.txt
 
 ### 4. Execute Main & Display Image of Trade Study
-python main.py
-start outputs\lox_ch4_sea_level.png
+* python main.py
+* start outputs\lox_ch4_sea_level.png
 
 
 
