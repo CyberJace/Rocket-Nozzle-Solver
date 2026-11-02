@@ -39,11 +39,11 @@ Download, extract ZIP, and go to the folder of the project in files.
 
 ### 2. Activating a Virtual Environment
 * Windows (Command Prompt):
- * python -m venv venv
- * venv\Scripts\activate
+  * python -m venv venv
+  * venv\Scripts\activate
 * Linux (Command Prompt):
- * python3 -m venv venv
- * source venv/bin/activate
+  * python3 -m venv venv
+  * source venv/bin/activate
 
 ### 3. Installing Dependencies/Packages
 pip install -r requirements.txt
