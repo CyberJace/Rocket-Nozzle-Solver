@@ -30,5 +30,5 @@ A python project that imports NASA CEA library to compare nozzle performances ba
 * Disclaimer:
   * This execution proves the syntax function and accurately exhibits 1D compressible flow across chemical equilibrium and expansion ratios, however does not automatically verify a vehicle is qualified for overall real-world flight under the limit of 1D gas assumptions.
  
-* Quick Start
-  * 
+## Quick Start
+* 
