@@ -24,6 +24,8 @@ A python project that imports NASA CEA library to compare nozzle performances ba
   * Chamber temperature (Tc): 6080.40 K
   * Mean Molecular Weight (MW): 1.15 g/mol
   * Throat Area (A*): 3746.06 cm^2
+ 
+<img width="766" height="467" alt="image" src="https://github.com/user-attachments/assets/5c13a6cf-3d0f-4ae5-915e-5cf93d7d3b18" />
 
 * Disclaimer:
   * This execution proves the syntax function and accurately exhibits 1D compressible flow across chemical equilibrium and expansion ratios, however does not automatically verify a vehicle is qualified for overall real-world flight under the limit of 1D gas assumptions.
