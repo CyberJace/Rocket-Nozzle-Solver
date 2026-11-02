@@ -31,4 +31,26 @@ A python project that imports NASA CEA library to compare nozzle performances ba
   * This execution proves the syntax function and accurately exhibits 1D compressible flow across chemical equilibrium and expansion ratios, however does not automatically verify a vehicle is qualified for overall real-world flight under the limit of 1D gas assumptions.
  
 ## Quick Start
-* 
+
+Run **Rocket Nozzle CEA Solver** using terminal/command prompt
+
+### 1. Download ZIP Folder
+Download, extract ZIP, and go to the folder of the project in files.
+
+### 2. Activating a Virtual Environment
+Windows (Command Prompt):
+* python -m venv venv
+* venv\Scripts\activate
+Linux (Command Prompt):
+* python3 -m venv venv
+* source venv/bin/activate
+
+### 3. Installing Dependencies/Packages
+pip install -r requirements.txt
+
+### 4. Execute Main & Display Image of Trade Study
+python main.py
+start outputs\lox_ch4_sea_level.png
+
+
+
